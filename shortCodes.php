@@ -1,4 +1,4 @@
-<php?
+<?php
 /**
  * Plugin Name: Shortcode
  * Plugin URI:  https://jgduartem.github.io
